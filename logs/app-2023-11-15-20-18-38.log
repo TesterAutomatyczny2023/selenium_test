@@ -1,0 +1,71 @@
+20:18:46.045 [main] INFO  BaseTest - Test colorTest started
+20:18:48.059 [main] INFO  BaseTest - Test colorTest wykona³ siê w 2000ms
+20:18:49.637 [main] INFO  BaseTest - Test dontShowModalOnEntry started
+20:18:53.724 [main] INFO  BaseTest - Test dontShowModalOnEntry wykona³ siê w 4087ms
+20:18:53.725 [main] INFO  BaseTest - Test showModalOnEntry started
+20:18:58.375 [main] INFO  BaseTest - Test showModalOnEntry wykona³ siê w 4649ms
+20:18:59.993 [main] INFO  BaseTest - Test testDropdown started
+20:19:02.118 [main] INFO  BaseTest - Test testDropdown wykona³ siê w 2125ms
+20:19:03.520 [main] INFO  BaseTest - Test exitIntentTest started
+20:19:07.643 [main] INFO  BaseTest - Test exitIntentTest wykona³ siê w 4122ms
+20:19:09.342 [main] INFO  BaseTest - Test testSelectMultiple started
+20:19:13.223 [main] INFO  BaseTest - Test testSelectMultiple wykona³ siê w 3879ms
+20:19:13.229 [main] INFO  BaseTest - Test testSingleChoice started
+20:19:13.505 [main] INFO  BaseTest - Test testSingleChoice wykona³ siê w 275ms
+20:19:13.506 [main] INFO  BaseTest - Test testSingleChoice started
+20:19:13.778 [main] INFO  BaseTest - Test testSingleChoice wykona³ siê w 272ms
+20:19:13.779 [main] INFO  BaseTest - Test testSingleChoice started
+20:19:14.118 [main] INFO  BaseTest - Test testSingleChoice wykona³ siê w 339ms
+20:19:14.120 [main] INFO  BaseTest - Test testSingleChoice started
+20:19:14.453 [main] INFO  BaseTest - Test testSingleChoice wykona³ siê w 332ms
+20:19:15.962 [main] INFO  BaseTest - Test testExitIntentOnTheInternetHeroku started
+20:19:28.007 [main] INFO  BaseTest - Test testExitIntentOnTheInternetHeroku wykona³ siê w 12044ms
+20:19:28.008 [main] INFO  BaseTest - Test testHoverOnHeroku started
+20:19:28.503 [main] INFO  BaseTest - Test testHoverOnHeroku wykona³ siê w 495ms
+20:19:28.504 [main] INFO  BaseTest - Test testHoverOnHeroku started
+20:19:28.903 [main] INFO  BaseTest - Test testHoverOnHeroku wykona³ siê w 398ms
+20:19:28.905 [main] INFO  BaseTest - Test testHoverOnHeroku started
+20:19:29.289 [main] INFO  BaseTest - Test testHoverOnHeroku wykona³ siê w 383ms
+20:19:29.292 [main] INFO  BaseTest - Test testDragAndDropOnTheInternetHeroku started
+20:19:29.841 [main] INFO  BaseTest - Test testDragAndDropOnTheInternetHeroku wykona³ siê w 548ms
+20:19:29.847 [main] INFO  BaseTest - Test testDragAndDropOnTheInternetHerokuPartTwo started
+20:19:30.144 [main] INFO  BaseTest - Test testDragAndDropOnTheInternetHerokuPartTwo wykona³ siê w 297ms
+20:19:31.646 [main] INFO  BaseTest - Test testAlert started
+20:19:33.984 [main] INFO  BaseTest - Test testAlert wykona³ siê w 2337ms
+20:19:33.986 [main] INFO  BaseTest - Test testAlertChoiceAccept started
+20:19:34.342 [main] INFO  BaseTest - Test testAlertChoiceAccept wykona³ siê w 333ms
+20:19:34.343 [main] INFO  BaseTest - Test testAlertChoiceCancel started
+20:19:34.637 [main] INFO  BaseTest - Test testAlertChoiceCancel wykona³ siê w 294ms
+20:19:34.638 [main] INFO  BaseTest - Test testAlertPrompt started
+20:19:34.920 [main] INFO  BaseTest - Test testAlertPrompt wykona³ siê w 281ms
+20:19:34.921 [main] INFO  BaseTest - Test testAlertPromptCancel started
+20:19:35.177 [main] INFO  BaseTest - Test testAlertPromptCancel wykona³ siê w 255ms
+20:19:36.603 [main] INFO  BaseTest - Test testAlertExample started
+20:19:37.170 [main] INFO  BaseTest - Test testAlertExample wykona³ siê w 567ms
+20:19:37.171 [main] INFO  BaseTest - Test testPrompt started
+20:19:37.357 [main] INFO  BaseTest - Test testPrompt wykona³ siê w 185ms
+20:19:38.869 [main] INFO  BaseTest - Test clickJacker started
+20:19:40.474 [main] INFO  BaseTest - Test clickJacker wykona³ siê w 1605ms
+20:19:40.475 [main] INFO  BaseTest - Test testCss started
+20:19:42.465 [main] INFO  BaseTest - Test testCss wykona³ siê w 1990ms
+20:19:42.465 [main] INFO  BaseTest - Test testColorOfInfoIsRed started
+20:19:43.565 [main] INFO  BaseTest - Test testColorOfInfoIsRed wykona³ siê w 1099ms
+20:19:43.566 [main] INFO  BaseTest - Test testColorOfSuccessLoginGreen started
+20:19:44.178 [main] INFO  BaseTest - Test testColorOfSuccessLoginGreen wykona³ siê w 611ms
+20:19:45.877 [main] INFO  BaseTest - Test testExitIntent started
+20:19:48.058 [main] INFO  BaseTest - Test testExitIntent wykona³ siê w 2180ms
+20:19:49.827 [main] INFO  BaseTest - Test testFrame started
+20:19:51.205 [main] INFO  BaseTest - Test testFrame wykona³ siê w 1377ms
+20:19:51.206 [main] INFO  BaseTest - Test testIFrame started
+20:19:54.177 [main] INFO  BaseTest - Test testIFrame wykona³ siê w 2971ms
+20:19:55.659 [main] INFO  BaseTest - Test testIFrameExample started
+20:19:58.061 [main] INFO  BaseTest - Test testIFrameExample wykona³ siê w 2402ms
+20:20:00.576 [main] INFO  BaseTest - Test testNewWindow started
+20:20:08.563 [main] INFO  BaseTest - Test testSelect started
+20:20:16.774 [main] INFO  BaseTest - Test testSelect wykona³ siê w 8211ms
+20:20:53.498 [main] INFO  BaseTest - Test basicAuth started
+20:20:56.045 [main] INFO  BaseTest - Test basicAuth wykona³ siê w 2546ms
+20:20:56.046 [main] INFO  BaseTest - Test testAuth started
+20:20:58.246 [main] INFO  BaseTest - Test testAuth wykona³ siê w 2199ms
+20:20:58.247 [main] INFO  BaseTest - Test testNewWindow started
+20:20:59.862 [main] INFO  BaseTest - Test testNewWindow wykona³ siê w 1615ms

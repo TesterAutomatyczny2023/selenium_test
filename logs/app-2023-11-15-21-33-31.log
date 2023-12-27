@@ -1,0 +1,12 @@
+21:33:31.766 [main] DEBUG pl.tester.loger.TestLogger - dane w postaci string 2023 i tu też 1.7976931348623157E308
+21:33:31.770 [main] DEBUG pl.tester.loger.TestLogger - Tu wstawiam dane kilka razy podajac ich kolejnosc 1.7976931348623157E308 with birthday 2023 2023,2023
+21:33:31.774 [main] DEBUG pl.tester.loger.TestLogger - tu używam przecinka do odzielenia kolejnych wartości liczby 2 147 483 647
+21:33:31.775 [main] DEBUG pl.tester.loger.TestLogger - a tu ograniczamy liczbe do 2 miejsc po przecinku 3,14
+21:33:31.776 [main] DEBUG pl.tester.loger.TestLogger - -----------------------------------------------------
+21:33:31.776 [main] INFO  pl.tester.loger.TestLogger - Witaj w roku {}! Najlepszym roku do nauki Selenium!
+21:33:31.778 [main] TRACE pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie TRACE.
+21:33:31.778 [main] DEBUG pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie DEBUG.
+21:33:31.778 [main] INFO  pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie INFO.
+21:33:31.778 [main] WARN  pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie WARN.
+21:33:31.779 [main] ERROR pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie ERROR.
+21:33:31.779 [main] FATAL pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie FATAL.

@@ -1,0 +1,6 @@
+20:28:09.071 [main] TRACE pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie TRACE.
+20:28:09.075 [main] DEBUG pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie DEBUG.
+20:28:09.075 [main] INFO  pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie INFO.
+20:28:09.076 [main] WARN  pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie WARN.
+20:28:09.076 [main] ERROR pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie ERROR.
+20:28:09.076 [main] FATAL pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie FATAL.

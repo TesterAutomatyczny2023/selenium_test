@@ -1,0 +1,3 @@
+21:45:22.404 [main] INFO  pl.tester.loger.MyFirstLogger - Upłyneło czasu 0ms 
+21:45:22.408 [main] INFO  pl.tester.loger.MyFirstLogger - To jest test
+21:45:22.409 [main] INFO  pl.tester.loger.MyFirstLogger - 10 to 20 sa dane

@@ -1,0 +1,5 @@
+20:27:45.803 [main] DEBUG pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie DEBUG.
+20:27:45.809 [main] INFO  pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie INFO.
+20:27:45.809 [main] WARN  pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie WARN.
+20:27:45.810 [main] ERROR pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie ERROR.
+20:27:45.810 [main] FATAL pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie FATAL.

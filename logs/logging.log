@@ -1,0 +1,12 @@
+2023-11-30 19:35:11.873 [main] INFO  souce.demo.BaseTest - Test addProductToCart started
+2023-11-30 19:35:14.449 [main] INFO  souce.demo.BaseTest - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+2023-11-30 19:35:14.450 [main] INFO  souce.demo.BaseTest - 1
+2023-11-30 19:35:14.451 [main] INFO  souce.demo.BaseTest - 29.99
+2023-11-30 19:35:14.451 [main] INFO  souce.demo.BaseTest - A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+2023-11-30 19:35:14.451 [main] INFO  souce.demo.BaseTest - 1
+2023-11-30 19:35:14.451 [main] INFO  souce.demo.BaseTest - 9.99
+2023-11-30 19:35:14.451 [main] INFO  souce.demo.BaseTest - Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+2023-11-30 19:35:14.451 [main] INFO  souce.demo.BaseTest - 1
+2023-11-30 19:35:14.451 [main] INFO  souce.demo.BaseTest - 15.99
+2023-11-30 19:35:14.852 [main] INFO  souce.demo.BaseTest - suma zakupów w koszyku: 39.98
+2023-11-30 19:35:15.184 [main] INFO  souce.demo.BaseTest - Test addProductToCart wykonał się w 3302ms

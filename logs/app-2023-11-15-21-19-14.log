@@ -1,0 +1,7 @@
+21:19:14.541 [main] INFO  pl.tester.loger.TestLogger - Witaj w roku 2023! Najlepszym roku do nauki Selenium!
+21:19:14.546 [main] TRACE pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie TRACE.
+21:19:14.547 [main] DEBUG pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie DEBUG.
+21:19:14.547 [main] INFO  pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie INFO.
+21:19:14.547 [main] WARN  pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie WARN.
+21:19:14.547 [main] ERROR pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie ERROR.
+21:19:14.548 [main] FATAL pl.tester.loger.TestLogger - To jest wiadomość logowana na poziomie FATAL.
