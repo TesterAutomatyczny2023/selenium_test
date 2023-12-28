@@ -15,19 +15,19 @@ import java.util.Collections;
 
 public class TestExitIntent extends BaseTest{
 
-    private static void simulateExit(){
-        PointerInput mouse = new PointerInput(PointerInput.Kind.MOUSE, "default mouse");
-
-        Sequence actions = new Sequence(mouse, 0)
-                .addAction(mouse.createPointerMove(Duration.ZERO, PointerInput.Origin.viewport(), 600, -1));
-
-        ((RemoteWebDriver) driver).perform(Collections.singletonList(actions));
-    }
-    private static void simulateExitIntent(WebDriver driver) {
-        // Zakłada, że exit intent zostanie aktywowany poprzez przewinięcie strony w dół
-        JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
-        jsExecutor.executeScript("window.scrollBy(0, document.body.scrollHeight)");
-    }
+//    private static void simulateExit(){
+//        PointerInput mouse = new PointerInput(PointerInput.Kind.MOUSE, "default mouse");
+//
+//        Sequence actions = new Sequence(mouse, 0)
+//                .addAction(mouse.createPointerMove(Duration.ZERO, PointerInput.Origin.viewport(), 600, -1));
+//
+//        ((RemoteWebDriver) driver).perform(Collections.singletonList(actions));
+//    }
+//    private static void simulateExitIntent(WebDriver driver) {
+//        // Zakłada, że exit intent zostanie aktywowany poprzez przewinięcie strony w dół
+//        JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
+//        jsExecutor.executeScript("window.scrollBy(0, document.body.scrollHeight)");
+//    }
     @Test( enabled = false)
     public void testExitIntent() throws InterruptedException, AWTException {
         driver.get("https://the-internet.herokuapp.com/exit_intent");
@@ -40,7 +40,7 @@ public class TestExitIntent extends BaseTest{
         actions.moveToLocation(600, -1).perform();
         actions.moveByOffset(0, -1).perform();
 
-        simulateExit();
+       // simulateExit();
 
         Thread.sleep(2000);
 
