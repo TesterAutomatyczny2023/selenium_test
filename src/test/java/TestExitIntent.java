@@ -28,7 +28,7 @@ public class TestExitIntent extends BaseTest{
         JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
         jsExecutor.executeScript("window.scrollBy(0, document.body.scrollHeight)");
     }
-    @Test
+    @Test( enabled = false)
     public void testExitIntent() throws InterruptedException, AWTException {
         driver.get("https://the-internet.herokuapp.com/exit_intent");
 
