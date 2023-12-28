@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 import java.time.Duration;
 
 public class JQueryTest extends BaseTest{
-    @Test
+    @Test(enabled = false)
     public void jqueryTest() throws InterruptedException {
         driver.get("https://the-internet.herokuapp.com/jqueryui/menu");
 

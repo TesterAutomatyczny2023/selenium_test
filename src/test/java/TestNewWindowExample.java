@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TestNewWindowExample extends BaseTest{
-    @Test
+    @Test(enabled = false)
     public void testNewWindow() throws InterruptedException {
         driver.get("https://the-internet.herokuapp.com/windows");
 

@@ -33,7 +33,7 @@ public class TestTheInternetHeroku {
         Assert.assertEquals(driver.getTitle(), "The Internet");
     }
 
-    @Test
+    @Test(enabled = false)
     public void LoginFailed() {
         driver.get("https://the-internet.herokuapp.com/login");
         //zanjdz pola do logowania

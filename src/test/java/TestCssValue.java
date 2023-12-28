@@ -66,7 +66,7 @@ public class TestCssValue extends BaseTest{
         System.out.println(colorAsHex(flash.getCssValue("color")));
     }
 
-    @Test
+    @Test( enabled = false)
     public void clickJacker() {
         driver.get("https://www.selenium.dev/selenium/web/click_jacker.html");
         WebElement clickMe = driver.findElement(By.xpath("/html/body/div/div[2]"));

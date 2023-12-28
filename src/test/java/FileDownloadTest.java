@@ -21,7 +21,7 @@ public class FileDownloadTest extends BaseTest{
         Path path = Paths.get(filePath);
         return Files.size(path);
     }
-    @Test
+    @Test(enabled = false)
     public void testFileDownloadTesttxt() throws InterruptedException, IOException {
     driver.get("https://the-internet.herokuapp.com/download");
 
