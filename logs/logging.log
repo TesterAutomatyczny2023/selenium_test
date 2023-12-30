@@ -1,7 +1,2 @@
-2023-12-30 11:32:07.604 [main] INFO  BaseTest - Test noButton started
-2023-12-30 11:32:09.945 [main] INFO  BaseTest - 10.0
-2023-12-30 11:32:09.964 [main] INFO  BaseTest - Test noButton wykonał się w 2351ms
-2023-12-30 11:32:09.967 [main] INFO  BaseTest - Test testInfiniteScroll started
-2023-12-30 11:32:15.720 [main] INFO  BaseTest - Test testInfiniteScroll wykonał się w 5752ms
-2023-12-30 11:32:15.721 [main] INFO  BaseTest - Test disableButton started
-2023-12-30 11:32:15.985 [main] INFO  BaseTest - Test disableButton wykonał się w 263ms
+2023-12-30 11:40:15.987 [main] INFO  BaseTest - Test exitIntentTest started
+2023-12-30 11:40:20.150 [main] INFO  BaseTest - Test exitIntentTest wykonał się w 4154ms

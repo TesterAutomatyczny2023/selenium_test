@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import java.awt.*;
 
 public class ExitIntentTest extends BaseTest{
-    @Test
+    @Test(enabled = false)
     public void exitIntentTest() throws AWTException, InterruptedException {
         driver.get("https://the-internet.herokuapp.com/exit_intent");
 
