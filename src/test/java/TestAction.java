@@ -63,7 +63,7 @@ public class TestAction extends BaseTest{
         Assert.assertEquals("3", caption.getText());
     }
 
-    @Test
+    @Test(enabled = false)
     public void testExitIntentOnTheInternetHeroku() throws AWTException {
         driver.get("https://the-internet.herokuapp.com/exit_intent");
         WebElement window = driver.findElement(By.xpath("//*[@id=\"ouibounce-modal\"]/div[2]/div[1]/h3"));

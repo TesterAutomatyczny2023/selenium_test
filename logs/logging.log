@@ -1,2 +1,2 @@
-2023-12-30 11:40:15.987 [main] INFO  BaseTest - Test exitIntentTest started
-2023-12-30 11:40:20.150 [main] INFO  BaseTest - Test exitIntentTest wykonał się w 4154ms
+2023-12-30 11:55:44.348 [main] INFO  BaseTest - Test testExitIntentOnTheInternetHeroku started
+2023-12-30 11:55:46.974 [main] INFO  BaseTest - Test testExitIntentOnTheInternetHeroku wykonał się w 2615ms
