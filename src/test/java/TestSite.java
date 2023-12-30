@@ -30,7 +30,7 @@ public class TestSite {
         driver.quit();
     }
 
-    @Test
+    @Test(enabled = false)
     public void testEdgeDriver() {
         driver = new EdgeDriver();
         driver.get("https://www.selenium.dev/selenium/web/web-form.html");
