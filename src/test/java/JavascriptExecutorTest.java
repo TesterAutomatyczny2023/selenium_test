@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 
 public class JavascriptExecutorTest extends BaseTest{
-    @Test
+    @Test(priority = 2)
     public void testInfiniteScroll() throws InterruptedException {
         driver.get("https://the-internet.herokuapp.com/infinite_scroll");
         WebElement div = driver.findElement(By.xpath("/html/body/div[2]/div/div/div/div/div/div[2]"));
@@ -20,7 +20,7 @@ public class JavascriptExecutorTest extends BaseTest{
         Thread.sleep(2000);
     }
 
-    @Test
+    @Test(priority = 3)
     public void disableButton() throws InterruptedException {
         driver.get("https://testerautomatyczny2023.github.io/CookieTesting/disabledbutton.html");
         WebElement button = driver.findElement(By.xpath("//*[@id='myButton']"));
@@ -36,7 +36,7 @@ public class JavascriptExecutorTest extends BaseTest{
 
     }
 
-    @Test
+    @Test(priority = 1)
     public void noButton() throws InterruptedException {
         driver.get("https://testerautomatyczny2023.github.io/CookieTesting/nobutton.html");
         WebElement total = driver.findElement(By.xpath("//*[@id=\"totalAmount\"]"));
