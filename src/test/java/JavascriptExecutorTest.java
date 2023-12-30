@@ -33,6 +33,7 @@ public class JavascriptExecutorTest extends BaseTest{
         Alert alert = driver.switchTo().alert();
         String expected = "Kliknięto przycisk!";
         Assert.assertEquals( alert.getText(), expected);
+        alert.dismiss();
 
     }
 
